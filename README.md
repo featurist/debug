@@ -10,7 +10,7 @@ technique. Works in Node.js and web browsers.
 ## Installation
 
 ```bash
-$ npm install debug
+$ npm install debug-es5
 ```
 
 ## Usage

@@ -1,6 +1,6 @@
-# debug
+# debug [![Build Status](https://travis-ci.org/featurist/debug.svg?branch=master)](https://travis-ci.org/featurist/debug)
 
-This is an ES5 compatible version of the browser part of [debug](https://github.com/visionmedia/debug) node module.
+**This is an ES5 compatible version of the *browser* part of [debug](https://github.com/visionmedia/debug) node module.**
 
 <img width="647" src="https://user-images.githubusercontent.com/71256/29091486-fa38524c-7c37-11e7-895f-e7ec8e1039b6.png">
 
